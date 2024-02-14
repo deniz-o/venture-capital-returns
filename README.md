@@ -1,0 +1,4 @@
+# A notebook examining the returns of venture capital funds
+After data preprocessing and cleaning steps, we create a ratio of each fund's IRR to the CAGR of S&P 500 index during the life of the fund –– a simplified public market equivalent (PME). This facilitates a standardized basis for comparison. We calculate CAPM and Fama French Five Factor alphas and then analyze the relationship between performance metrics by size, strategy, and geographic focus.
+
+The initial dataset consisted of 3,897 individual funds with inception years ranging from the 1969 to 2023 and their various performance metrics. Key information about the funds is also included such as the vintage year, country, status, fund size, geographic focus, industry focus, and strategy (based on stage).
